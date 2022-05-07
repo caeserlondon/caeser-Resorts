@@ -16,7 +16,7 @@ export default class Navbar extends Component {
 					<div className="nav-header">
 						<Link to="/" className="logo">
 							<p>
-								Dubai <span>Resorts</span>
+								Caeser's <span>Resorts</span>
 							</p>
 						</Link>
 						<button
