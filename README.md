@@ -1,4 +1,4 @@
-#Dubai Resorts
+#Caeser's Resorts
 
 created with react  
 Dependencies : react-icons, react-router-dom
